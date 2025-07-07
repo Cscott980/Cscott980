@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cscott980
 - 👀 I’m interested in game development, game design.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C#. GDscript, JavaScript, HTML5, CSS
 - 💞️ I’m looking to collaborate on game programing.
 - 📫 How to reach me : DM
 - ⚡ Fun fact: I do animations and illustrations.
