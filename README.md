@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Cscott980
-- 👀 I’m interested in game development, game design.
-- 🌱 I’m currently learning C#. GDscript, JavaScript, HTML5, CSS
-- 💞️ I’m looking to collaborate on game programing.
-- 📫 How to reach me : DM
-- ⚡ Fun fact: I do animations and illustrations.
+👋 Hi, I’m Chris (@Cscott980)
 
-<!---
-Cscott980/Cscott980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 Game developer focused on action-RPG systems and educational games  
+🛠 Godot (GDScript) • C# • HTML/CSS/JavaScript  
+🌱 Currently building Avalon Heroes — a classroom-friendly action RPG  
+🤝 Open to collaboration on gameplay systems, tools, and UI  
+📫 Reach me via GitHub DMs  
+
+⚡ Background in animation & illustration
