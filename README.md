@@ -1,4 +1,4 @@
-👋 Hi, I’m Chris (@Cscott980)
+👋 Hi, I’m Sir Clucks-a-Lot
 
 🎮 Game developer focused on action-RPG systems and educational games  
 🛠 Godot (GDScript) • C# • HTML/CSS/JavaScript  
