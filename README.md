@@ -4,6 +4,4 @@
 🛠 Godot (GDScript) • C# • HTML/CSS/JavaScript  
 🌱 Currently building Avalon Heroes — a classroom-friendly action RPG  
 🤝 Open to collaboration on gameplay systems, tools, and UI  
-📫 Reach me via GitHub DMs  
-
-⚡ Background in animation & illustration
+📫 Reach me via GitHub DMs.
