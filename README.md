@@ -8,6 +8,8 @@ Godot (GDScript) • C# • Python • HTML/CSS/JavaScript
 🌟 Current Project:
 Avalon Heroes — a classroom-friendly action RPG that combines real-time combat with quiz-based learning.
 
+💼 Building systems-heavy gameplay in Godot and exploring multiplayer classroom experiences.
+
 🎯 Interests:
 Gameplay systems • Tools development • UI/UX for games • EdTech
 
