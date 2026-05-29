@@ -2,17 +2,15 @@
 
 🎮 Game developer focused on gameplay systems and educational games.
 
-🛠 Tech:
-Godot (GDScript) • C# • Python • HTML/CSS/JavaScript
+🔧 Tech: Godot (GDScript) • C# • Python • HTML/CSS/JavaScript • Node.js
 
-🌟 Current Project:
-Avalon Heroes — a classroom-friendly action RPG that combines real-time combat with quiz-based learning.
+🌟 Current Project: Avalon Heroes — a classroom-friendly action RPG that combines real-time combat with quiz-based learning.
 
-💼 Building systems-heavy gameplay in Godot and exploring multiplayer classroom experiences.
+🏗️ Building systems-heavy gameplay in Godot with multiplayer classroom sessions, teacher tools, and a custom quiz system.
 
-🎯 Interests:
-Gameplay systems • Tools development • UI/UX for games • EdTech
+🎯 Interests: Gameplay systems • Tools development • UI/UX for games • EdTech
 
 🤝 Open to collaboration on game systems, tools, and UI.
 
-📬 Contact: GitHub DMs
+📫 Contact: avalonheroes.com/contact
+
